@@ -69,7 +69,3 @@ youtube-clone/
 - Dark mode support
 - Dynamic video data loading
 
-## Author
-
-Pratyush Mishra
-
