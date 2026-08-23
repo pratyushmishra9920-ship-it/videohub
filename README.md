@@ -1,6 +1,8 @@
 # VideoHub
 
-A responsive YouTube homepage clone built using HTML5 and CSS3. This project recreates the core layout of YouTube's homepage, including a fixed header, interactive sidebar, video grid, tooltips, and clickable video/channel links.
+A responsive video streaming platform interface built with HTML5 and CSS3.
+
+VideoHub is a frontend project inspired by modern video-sharing platforms. It recreates a video-focused homepage with a fixed header, sidebar navigation, responsive video grid, tooltips, clickable thumbnails, channel links, and interactive UI elements.
 
 ## Preview
 
