@@ -10,7 +10,7 @@ VideoHub is a frontend project inspired by modern video-sharing platforms. It re
 
 ## Live Demo
 
-https://pratyushmishra9920-ship-it.github.io/youtube-clone/
+
 
 ## Features
 
