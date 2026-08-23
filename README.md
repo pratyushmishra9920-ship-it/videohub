@@ -1,4 +1,4 @@
-# YouTube Clone
+# VideoHub
 
 A responsive YouTube homepage clone built using HTML5 and CSS3. This project recreates the core layout of YouTube's homepage, including a fixed header, interactive sidebar, video grid, tooltips, and clickable video/channel links.
 
