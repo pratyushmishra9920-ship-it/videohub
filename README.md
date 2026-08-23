@@ -61,7 +61,7 @@ videohub/
 - Working with fixed headers and sidebars
 - Implementing hover effects and tooltips
 - Structuring projects professionally
-- Using GitHub and GitHub Pages for deployment
+- Vercel deployment
 
 ## Future Improvements
 
