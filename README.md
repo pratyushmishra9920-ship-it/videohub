@@ -6,7 +6,7 @@ VideoHub is a frontend project inspired by modern video-sharing platforms. It re
 
 ## Preview
 
-![YouTube Clone Preview](screenshots/videohub-preview.png)
+
 
 ## Live Demo
 
