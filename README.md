@@ -36,7 +36,7 @@ https://pratyushmishra9920-ship-it.github.io/youtube-clone/
 ## Project Structure
 
 ```text
-youtube-clone/
+videohub/
 │
 ├── index.html
 ├── README.md
@@ -51,7 +51,7 @@ youtube-clone/
 ├── thumbnails/
 ├── channels/
 │
-└── youtube-logo.png
+└── videohub-logo.png
 ```
 
 ## What I Learned
