@@ -5,7 +5,7 @@ A responsive video streaming platform interface built with HTML5 and CSS3.
 VideoHub is a frontend project inspired by modern video-sharing platforms. It recreates a video-focused homepage with a fixed header, sidebar navigation, responsive video grid, tooltips, clickable thumbnails, channel links, and interactive UI elements.
 
 ## Preview
-
+![VideoHub Preview](./screenshorts/videohub-preview.png)
 
 
 ## Live Demo
